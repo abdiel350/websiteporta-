@@ -1,0 +1,6 @@
+npm install @fortawesome/free-brands-svg-icons@5.12.0-2
+npm install @fortawesome/react-fontawesome@0.1.16
+npm install @material-ui/core@4.12.0
+npm install @material-ui/icons
+npm install react-router-dom@5.2.1
+npm install node-sass
